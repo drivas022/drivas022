@@ -98,9 +98,28 @@
 
 ---
 
-## 📈 Activity Graph
+## 📂 My Repositories
 
-[![drivas22's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=drivas22&theme=tokyo-night)](https://github.com/drivas22)
+<div align="center">
+<a href="https://github.com/drivas22/SAP-Business-One-Addons">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=drivas22&repo=SAP-Business-One-Addons&theme=tokyonight" alt="SAP Addons" />
+</a>
+<a href="https://github.com/drivas22/Cybersecurity-Tools">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=drivas22&repo=Cybersecurity-Tools&theme=tokyonight" alt="Cybersecurity Tools" />
+</a>
+<a href="https://github.com/drivas22/AI-ML-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=drivas22&repo=AI-ML-Projects&theme=tokyonight" alt="AI ML Projects" />
+</a>
+<a href="https://github.com/drivas22/Web-Services-SOAP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=drivas22&repo=Web-Services-SOAP&theme=tokyonight" alt="Web Services" />
+</a>
+<a href="https://github.com/drivas22/Java-Maven-Projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=drivas22&repo=Java-Maven-Projects&theme=tokyonight" alt="Java Maven" />
+</a>
+<a href="https://github.com/drivas22/Python-Unit-Testing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=drivas22&repo=Python-Unit-Testing&theme=tokyonight" alt="Python Testing" />
+</a>
+</div>
 
 ---
 
