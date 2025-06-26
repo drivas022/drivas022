@@ -15,14 +15,14 @@
 - 📫 How to reach me: **wkdrivas@gmail.com**
 - ⚡ Fun fact: Always leaving a positive mark in every line of code ✨
 
-<br>
+<br><br>
 
 ##### Programming Languages I use
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,html,css&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic" height="48"/>
 </div>
 
 <div align="center">
@@ -74,11 +74,15 @@
 ##### Databases & Testing Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=sqlserver,markdown&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA" height="40"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" height="40"/>
-<img src="https://img.shields.io/badge/SOAP%20UI-FCDC00?style=for-the-badge&logo=soap&logoColor=black" alt="SOAP UI" height="40"/>
+<img src="https://skillicons.dev/icons?i=markdown&theme=dark" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="48"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA" height="48"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" height="48"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SOAP%20UI-FCDC00?style=for-the-badge&logo=soap&logoColor=black" alt="SOAP UI" height="48"/>
 </div>
 
 <div align="center">
@@ -101,8 +105,10 @@
 
 ### 🏢 SAP Business One Specialist
 <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business One" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA" />
-<img src="https://img.shields.io/badge/SDK%20Components-4A90E2?style=for-the-badge&logo=sap&logoColor=white" alt="SDK Components" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SDK%20Components-4A90E2?style=for-the-badge&logo=code&logoColor=white" alt="SDK Components" />
 
 </div>
 
