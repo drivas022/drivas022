@@ -18,6 +18,13 @@
 ---
 
 ##### Programming Languages I use
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,java,html,css&theme=dark" />
+</div>
+
+<div align="center">
+
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp&logoColor=239120)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
@@ -25,31 +32,58 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-000000?style=flat&logo=.net&logoColor=512BD4)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=336791)
+
+</div>
 
 ##### Frameworks & Technologies I work with
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,maven,git,github,windows,linux&theme=dark" />
+</div>
+
+<div align="center">
+
 ![.NET](https://img.shields.io/badge/-.NET-222222?style=flat&logo=.net&logoColor=512BD4)
 ![Maven](https://img.shields.io/badge/-Maven-222222?style=flat&logo=apache-maven&logoColor=C71A36)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Windows](https://img.shields.io/badge/-Windows-222222?style=flat&logo=windows&logoColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-222222?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
-![SAP HANA](https://img.shields.io/badge/-SAP%20HANA-222222?style=flat&logo=sap&logoColor=0FAAFF)
+
+</div>
 
 ##### Development Tools & IDEs
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,obsidian,postman&theme=dark" />
+</div>
+
+<div align="center">
+
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-222222?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-222222?style=flat&logo=intellij-idea&logoColor=000000)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-222222?style=flat&logo=pycharm&logoColor=000000)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-222222?style=flat&logo=obsidian&logoColor=7C3AED)
 ![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman&logoColor=FF6C37)
-![SOAP UI](https://img.shields.io/badge/-SOAP%20UI-222222?style=flat&logo=soap&logoColor=FCDC00)
 
-##### Testing & Documentation
+</div>
+
+##### Databases & Testing
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=sqlserver,markdown&theme=dark" />
+</div>
+
+<div align="center">
+
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-222222?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
+![SAP HANA](https://img.shields.io/badge/-SAP%20HANA-222222?style=flat&logo=sap&logoColor=0FAAFF)
 ![JUnit](https://img.shields.io/badge/-JUnit-222222?style=flat&logo=junit5&logoColor=25A162)
+![SOAP UI](https://img.shields.io/badge/-SOAP%20UI-222222?style=flat&logo=soap&logoColor=FCDC00)
 ![Markdown](https://img.shields.io/badge/-Markdown-222222?style=flat&logo=markdown&logoColor=000000)
-![Python Testing](https://img.shields.io/badge/-Python%20Testing-222222?style=flat&logo=python&logoColor=3776AB)
+
+</div>
 
 <br/>
 
