@@ -8,7 +8,7 @@
 </p>
 
 - 👨‍💻 I'm currently working on **SAP development projects** and **cybersecurity solutions**
-- 🔐 Specialized in **SAP Add-ons, Synchronizers, Web Services, FEL & H2H**
+- 🔐 Specialized in **SAP Add-ons, Synchronizers, Web Services, FEL & H2H, Service Layer**
 - 🤖 Learning everything about **AI/ML models** and **trained models (.pkl)**
 - 📚 Always exploring **new technologies** and **security frameworks**
 - 💪🏼 Future Goals: Master cybersecurity and AI integration - Never stop creating innovative solutions
@@ -76,7 +76,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=markdown&theme=dark" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="48"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" alt="SQL Server" height="48"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA" height="48"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,9 +104,8 @@
 <div align="center">
 
 ### 🏢 SAP Business One Specialist
-<img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business One" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png" alt="SAP" height="48"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SDK%20Components-4A90E2?style=for-the-badge&logo=code&logoColor=white" alt="SDK Components" />
 
@@ -135,25 +134,37 @@ ETL processes & workflows
 ### 🌐 **Web Services**
 SOAP/REST API development<br>
 Service Layer integration<br>
-B1WS & DI API expertise
+B1WS & DI API expertise<br>
+RESTful endpoints & JSON
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
+
+### 🔗 **Service Layer**
+SAP B1 Service Layer APIs<br>
+RESTful web services<br>
+OData protocol integration<br>
+Modern API architecture
+
+</td>
+<td align="center" width="33%">
 
 ### 📋 **FEL Integration**
 Electronic invoicing systems<br>
 Tax compliance automation<br>
-Government reporting
+Government reporting<br>
+Digital tax certificates
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 🔗 **H2H Solutions**
 Host-to-host communications<br>
 Banking integrations<br>
-Financial data exchange
+Financial data exchange<br>
+Secure data transmission
 
 </td>
 </tr>
@@ -161,9 +172,10 @@ Financial data exchange
 
 <div align="center">
 
+![SAP Business One](https://img.shields.io/badge/SAP%20Business%20One-FFA500?style=for-the-badge&logo=sap&logoColor=white)
+![Service Layer](https://img.shields.io/badge/Service%20Layer-0FAAFF?style=for-the-badge&logo=api&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP%20Services-326CE5?style=for-the-badge&logo=soap&logoColor=white)
 ![Web Services](https://img.shields.io/badge/Web%20Services-4CAF50?style=for-the-badge&logo=web&logoColor=white)
-![Enterprise](https://img.shields.io/badge/Enterprise%20Solutions-FF6B35?style=for-the-badge&logo=enterprise&logoColor=white)
 
 </div>
 
@@ -176,10 +188,6 @@ Financial data exchange
 <img src="https://github-readme-stats.vercel.app/api?username=drivas22&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drivas22&langs_count=8&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="drivas22" height="180em"/>
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drivas22&theme=tokyonight_duo" alt="drivas22" />
 </div>
 
 ---
@@ -195,7 +203,7 @@ Financial data exchange
 ## 🔗 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/drivas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drivas22" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/diego-manuel-rivas-arguijo-aa0064333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-manuel-rivas-arguijo" height="40" width="50" /></a>
 <a href="mailto:wkdrivas@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="50" /></a>
 <a href="https://github.com/drivas22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="50" /></a>
 </p>
