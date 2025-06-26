@@ -15,12 +15,14 @@
 - 📫 How to reach me: **wkdrivas@gmail.com**
 - ⚡ Fun fact: Always leaving a positive mark in every line of code ✨
 
----
+<br>
 
 ##### Programming Languages I use
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,html,css&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic" height="40"/>
 </div>
 
 <div align="center">
@@ -69,10 +71,14 @@
 
 </div>
 
-##### Databases & Testing
+##### Databases & Testing Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=sqlserver,markdown&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA" height="40"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" height="40"/>
+<img src="https://img.shields.io/badge/SOAP%20UI-FCDC00?style=for-the-badge&logo=soap&logoColor=black" alt="SOAP UI" height="40"/>
 </div>
 
 <div align="center">
@@ -89,13 +95,71 @@
 
 ---
 
-## 🚀 SAP Expertise
+## 💼 SAP Expertise & Enterprise Solutions
 
-![SAP Business One](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SOAP Services](https://img.shields.io/badge/SOAP%20Services-326CE5?style=for-the-badge&logo=soap&logoColor=white)
+<div align="center">
+
+### 🏢 SAP Business One Specialist
+<img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business One" />
+<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA" />
+<img src="https://img.shields.io/badge/SDK%20Components-4A90E2?style=for-the-badge&logo=sap&logoColor=white" alt="SDK Components" />
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🔧 **Add-ons Development**
+Custom business logic extensions<br>
+SDK integration & deployment<br>
+User-defined fields & tables
+
+</td>
+<td align="center" width="33%">
+
+### 🔄 **Data Synchronization**
+Real-time data sync solutions<br>
+Multi-system integration<br>
+ETL processes & workflows
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 **Web Services**
+SOAP/REST API development<br>
+Service Layer integration<br>
+B1WS & DI API expertise
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📋 **FEL Integration**
+Electronic invoicing systems<br>
+Tax compliance automation<br>
+Government reporting
+
+</td>
+<td align="center" width="50%">
+
+### 🔗 **H2H Solutions**
+Host-to-host communications<br>
+Banking integrations<br>
+Financial data exchange
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![SOAP](https://img.shields.io/badge/SOAP%20Services-326CE5?style=for-the-badge&logo=soap&logoColor=white)
 ![Web Services](https://img.shields.io/badge/Web%20Services-4CAF50?style=for-the-badge&logo=web&logoColor=white)
+![Enterprise](https://img.shields.io/badge/Enterprise%20Solutions-FF6B35?style=for-the-badge&logo=enterprise&logoColor=white)
 
-**🔹 SAP Add-ons Development 🔹 Synchronizers 🔹 FEL (Electronic Invoicing) 🔹 H2H (Host-to-Host)**
+</div>
 
 ---
 
